@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<lineup>
+    <robot id="1">
+            <name>Tombstone</name>
+            <team>Hardcore Robotics</team>
+            <season_wins>2</season_wins>
+    </robot>
+    <robot id="2">
+            <name>Bloodsport</name>
+            <team>Bots 'n' Stuff Robotics</team>
+            <season_wins>2</season_wins>
+    </robot>
+    <robot id="3">
+            <name>Witch Doctor</name>
+            <team>Team Witch Doctor</team>
+            <season_wins>2</season_wins>
+    </robot>
+    <robot id="4">
+            <name>Minotaur</name>
+            <team>Team RioBotz</team>
+            <season_wins>3</season_wins>
+    </robot>
+</lineup>
